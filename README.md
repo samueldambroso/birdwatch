@@ -1,4 +1,4 @@
-# birdwatch
+# AI Birdwatch
 AI Birdwatch Pi cam for Raspberry Pi Zero
 
 Purpose:
