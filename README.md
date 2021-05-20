@@ -19,5 +19,5 @@ Hardware prototype is being built and setup diagram will be made available.
 
 # Further goals:
 - Identify bird species / age and sex
-- Post curiosities about the species
+- Post facts about the species
 - Smart post production done by AI
