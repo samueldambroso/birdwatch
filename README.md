@@ -2,7 +2,7 @@
 AI Birdwatch Pi cam for Raspberry Pi Zero
 
 Purpose:
-Provide a simple code for connecting with a Pi Cam and capturing a sequence of pictures, after signal is detected on a motion sensor. Pictures will be uploaded to AWS S3, where a lambda function will analyse and vote for the best picture using CNNs (https://en.wikipedia.org/wiki/Convolutional_neural_network). Best picture will be uploaded to a social network.
+Provide a simple code for connecting with a Pi Cam and capturing a sequence of pictures after a signal is detected on a motion sensor. Pictures will be uploaded to AWS S3, where a lambda function will analyse and vote for the best picture using CNNs (https://en.wikipedia.org/wiki/Convolutional_neural_network). Best picture will be uploaded to a social network.
 
 Hardware prototype is being built and setup diagram will be made available.
 
