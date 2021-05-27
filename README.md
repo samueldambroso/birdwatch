@@ -15,6 +15,17 @@ Provide a simple code for connecting with a Pi Cam and capturing a sequence of p
 - Raspberry Pi Zero W
 - Flood Lamp Case (IP65, 2 Chambers)
 
+# Progress:
+
+> Flood light case
+![Flood light case](/hardware/1-floodlight.jpg)
+
+> Power components
+![Power components](/hardware/2-powercomponents.jpg)
+
+> Assembled power chamber
+![Power chamber assembled](/hardware/3-powerchamber.jpg)
+
 Hardware prototype is being built and setup diagram will be made available.
 
 # Further goals:
