@@ -26,6 +26,21 @@ Provide a simple code for connecting with a Pi Cam and capturing a sequence of p
 > Assembled power chamber
 ![Power chamber assembled](/hardware/3-powerchamber.jpg)
 
+> Step up/Step down (Polulu 5.2v)
+![Polulu 5.2v](/hardware/4-polulu5v.jpg)
+
+> Attaching polulu
+![Polulu 5.2v](/hardware/5-poluluattached.jpg)
+
+> Output test
+![Output test](/hardware/6-outtest.jpg)
+
+> Input test
+![Input test](/hardware/7-intest.jpg)
+
+> Power chamber done
+![Power chamber done](/hardware/8-powerchamberdone.jpg)
+
 Hardware prototype is being built and setup diagram will be made available.
 
 # Further goals:
