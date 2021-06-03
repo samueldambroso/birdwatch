@@ -19,28 +19,28 @@ Provide a simple code for connecting with a Pi Cam and capturing a sequence of p
 # Progress:
 
 > Flood light case
-![Flood light case](/hardware/1-floodlight.jpg)
+<img src="https://github.com/samueldambroso/birdwatch/blob/main/hardware/1-floodlight.jpg" width=50% height=50%>
 
 > Power components
-![Power components](/hardware/2-powercomponents.jpg)
+<img src="https://github.com/samueldambroso/birdwatch/blob/main/hardware/2-powercomponents.jpg" width=50% height=50%>
 
 > Assembled power chamber
-![Power chamber assembled](/hardware/3-powerchamber.jpg)
+<img src="https://github.com/samueldambroso/birdwatch/blob/main/hardware/3-powerchamber.jpg" width=50% height=50%>
 
 > Step up/Step down (Polulu 5.2v)
-![Polulu 5.2v](/hardware/4-polulu5v.jpg)
+<img src="https://github.com/samueldambroso/birdwatch/blob/main/hardware/4-polulu5v.jpg" width=50% height=50%>
 
 > Attaching polulu
-![Polulu 5.2v](/hardware/5-poluluattached.jpg)
+<img src="https://github.com/samueldambroso/birdwatch/blob/main/hardware/5-poluluattached.jpg" width=50% height=50%>
 
 > Output test
-![Output test](/hardware/6-outtest.jpg)
+<img src="https://github.com/samueldambroso/birdwatch/blob/main/hardware/6-outtest.jpg" width=50% height=50%>
 
 > Input test
-![Input test](/hardware/7-intest.jpg)
+<img src="https://github.com/samueldambroso/birdwatch/blob/main/hardware/7-intest.jpg" width=50% height=50%>
 
 > Power chamber done
-![Power chamber done](/hardware/8-powerchamberdone.jpg)
+<img src="https://github.com/samueldambroso/birdwatch/blob/main/hardware/8-powerchamberdone.jpg" width=50% height=50%>
 
 Hardware prototype is being built and setup diagram will be made available.
 
